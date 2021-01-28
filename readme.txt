@@ -1,0 +1,1 @@
+This website is the deliverable for HyperionDev Full Stack Web Developer, Level 1, Task 24. The objective of this task is to build a wbsite that acts as a CV and also showcases a bit of my personality. 
